@@ -1,0 +1,6 @@
+Flask
+numpy
+scikit-learn
+scipy
+urllib3
+gunicorn
